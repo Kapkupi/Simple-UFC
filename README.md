@@ -1,2 +1,4 @@
-# Simple-UFC
-A simple upfront controls unit using a 4x4 button matrix
+A 4x4 macropad in the style of the upfront controls unit inspired by vtolvr.
+
+
+
