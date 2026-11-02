@@ -21,7 +21,7 @@ need to look out for in terms of printing.
 
 The print is designed with a 0.4mm nozzle in mind and a layer height of
 0.2mm. The picture above uses a 0.2mm nozzle for the buttons (except for the master caution)
-but 0.4mm should also work well enough, I took attention to that.
+but 0.4mm should also work well enough, I took attention to that. Printed with PLA.
 
 The top should be printed on its biggest plane. The bottom should be printed
 on its side, so that one side with latches is on the printing plate and
@@ -34,3 +34,8 @@ need to print the buttons in the air and waste material. And it would not
 even look good so just use the .3mf.
 
 ## Assembly
+After printing you can take your matrix and put it into the bottom while
+lining up the ribbon cable with the hole for it. Then put the buttons 
+into the top and then sandwich both parts while keeping the matrix in
+its place. Do not worry the latches should be durable enough so then
+just close it off by clicking all latches into place.
