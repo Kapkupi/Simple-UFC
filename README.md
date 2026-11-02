@@ -19,9 +19,18 @@ some microcontroller starter kit.
 Now replicating this project is pretty easy but there are some things you
 need to look out for in terms of printing.
 
-The bottom should be printed on its flat side. The top should be printed
-on its side, so that one side with latches is on the printing plate. 
+The print is designed with a 0.4mm nozzle in mind and a layer height of
+0.2mm. The picture above uses a 0.2mm nozzle for the buttons (except for the master caution)
+but 0.4mm should also work well enough, I took attention to that.
+
+The top should be printed on its biggest plane. The bottom should be printed
+on its side, so that one side with latches is on the printing plate and
+one is above. Additionally you should activate supports for the bottom.
 The buttons should be printed on their face side. I recommend using the
 .3mf file for the buttons as the provided .step is a raw export of the 
-buttons and faces from my CAD software which you would need to cut appart
-yourself so I made the .3mf so you can just use that. 
+buttons and faces from my CAD software which you would need to cut apart
+yourself so I made the .3mf so you can just use that. Otherwise you would
+need to print the buttons in the air and waste material. And it would not
+even look good so just use the .3mf.
+
+## Assembly
