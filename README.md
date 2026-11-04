@@ -39,3 +39,26 @@ lining up the ribbon cable with the hole for it. Then put the buttons
 into the top and then sandwich both parts while keeping the matrix in
 its place. Do not worry the latches should be durable enough so then
 just close it off by clicking all latches into place.
+
+## Software
+It currently only supports the inputs as serial output but that could either
+change to a usb number pad kind of thing or something to be used with a
+flight sim but I do not know how to do that yet.
+
+## Pins
+In the current software the pins are defined as follows in orientation of
+it being assembled and the ribbon cable facing away from you, given from
+left to right.
+
+Ribbon Pins | controller pins
+--- | ---
+1 | 3
+2 | 4
+3 | 6
+4 | 40
+5 | 14
+6 | 39
+7 | 13
+8 | 15
+
+This can obviously be changed in the software.
