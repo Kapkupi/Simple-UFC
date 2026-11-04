@@ -50,7 +50,7 @@ In the current software the pins are defined as follows in orientation of
 it being assembled and the ribbon cable facing away from you, given from
 left to right.
 
-Ribbon Pins | controller pins
+Ribbon Pins | Controller Pins
 --- | ---
 1 | 3
 2 | 4
